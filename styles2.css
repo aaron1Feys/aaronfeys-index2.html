@@ -1,0 +1,78 @@
+body {
+  text-align: center;
+}
+
+div#Heading {
+  font-size: 1.5em;
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
+  color: red;
+  border-bottom: 2px solid red;
+}
+
+h6#Name {
+  color: darkgray;
+  margin-top: -1em;
+  margin-bottom: .1em;;
+  text-align: left;
+  padding-left: 2em;
+  font-style: italic;
+}
+
+div#What_is_Html {
+  color: red;
+
+}
+
+.Standard_Text, p.smcss {
+  line-height: -.5em;
+  margin: 0 5em 0 5em;
+  text-align: justify;
+  font-size: 1.2em;
+}
+p.smcss {
+  color: white;
+}
+.Standard_Text {
+  color: darkgray;
+}
+
+div#Something_more_about_html, div#Something_more_about_css{
+  border: 3px solid red;
+  margin: 5em;
+  padding: 1em;
+}
+
+div#Something_more_about_css {
+  background-color: red;
+}
+
+h3.html , h3.css{
+  font-weight: lighter;
+  font-style: italic;
+  text-align: left;
+  margin-left: 1em;
+}
+
+h3.css {
+  color: white;
+  font-weight: 900;
+}
+
+h3.html {
+  color: red;
+}
+
+h2#html, h2#css {
+  margin-left: 10em;
+  margin-right: 10em;
+}
+
+h2#html {
+  color: red;
+  border-bottom: 1px ridge red;
+}
+
+h2#css {
+  color: white;
+  border-bottom: 1px ridge white;
+}
